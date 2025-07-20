@@ -3,10 +3,10 @@
 ### 🌸 I'm an aspiring Web Developer and Python Programmer  
 - 💻 Currently doing a *Python programming internship*
 - 📊 Learning *API Integration* and *Data Visualization*
-- 🎯 Preparing for *GATE - CSE (AI & ML)*
 - 🌱 Interested in building calm, creative web projects
-- 💬 Ask me about: Python, HTML, CSS, JavaScript, SQL
-- 📫 Reach me at: priyanka212005@gmail.com
+- 💬 Ask me about: Python, HTML, CSS, JavaScript
+- 📫 Reach me at:
+-  spriyankachinnu0305@gmail.com
 
 ---
 
@@ -29,5 +29,4 @@
 
 ---
 
-### 📌 Fun fact:
-I love learning new tech and creating peaceful, user-friendly websites ☀
+
