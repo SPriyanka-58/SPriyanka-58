@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanka
 
-<!--
-**SPriyanka-58/SPriyanka-58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌸 I'm an aspiring Web Developer and Python Programmer  
+- 💻 Currently doing a *Python programming internship*
+- 📊 Learning *API Integration* and *Data Visualization*
+- 🎯 Preparing for *GATE - CSE (AI & ML)*
+- 🌱 Interested in building calm, creative web projects
+- 💬 Ask me about: Python, HTML, CSS, JavaScript, SQL
+- 📫 Reach me at: priyanka212005@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link)
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📌 Fun fact:
+I love learning new tech and creating peaceful, user-friendly websites ☀
